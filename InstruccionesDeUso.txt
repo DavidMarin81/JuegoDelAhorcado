@@ -1,0 +1,32 @@
+INSTRUCCIONES PARA EL JUEGO DEL AHORCADO
+
+- Para poder ejecutar el juego, hay que tener instalado en el PC la máquina virtual de Java.
+ 	Se puede descargar desde la página:
+	https://www.java.com/es/download/help/develop.html
+	(descargar JDK = máquina virtual de Java)
+
+- El juego coge las palabras que están en el fichero "palabras.txt". 
+- IMPORTANTE!!! No se puede cambiar el nombre del fichero. El programa está preparado para enlazar con el fichero "palabras.txt". Si se cambia el nombre del fichero, el programa no encontrará las palabras del fichero.
+- IMPORTATE!!! El fichero "palabras.txt" tiene que estar en la misma carpeta que "XogoAforcado.jar". De no encontrarse al mismo nivel, tampoco podrá encontrar el fichero. 
+- Así que estas dos cosas hay que tenerlas en cuenta.
+
+- Se pueden introducir en el fichero las palabras que se quieran. La única condición es que, una vez introducida una palabra, hay que darle al enter. Ejemplo:
+navidad
+adornos
+luces
+fiesta
+vacaciones
+fin
+
+- Y una vez que se introducen todas las palabras, hay que acabar la lista con la palabra fin.
+
+- Como el juego está en fase de pruebas, no se acepta la letra Ñ.
+- El juego tampoco distingue entre mayúsculas y minúsculas
+- La palabra a adivinar se muestra en mayúsculas.
+- El máximo de letras a introducir es de 12. En el caso de introducir más, el programa puede sufrir variaciones en el diseño.
+
+- ... y ahora, a disfrutar del juego!!!
+
+ Espero que el juego sirva para el aprendizaje y el entretenimiento de profes y alumnos.
+
+ psd.- Juego en fase de pruebas. Pendiente de corregir tildes, letra ñ y posibles fallos en el diseño
